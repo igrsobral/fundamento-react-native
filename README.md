@@ -1,4 +1,4 @@
-# Fundamento React Native e Typescript
+# App E-commerce com React Native e Typescript
 
 Desafio Fundamento React Native utilizando typescript e contexto para criar funcionalidades de carrinho de compras, como listagem de produtos
 incrementar e decrementar quantidades.
